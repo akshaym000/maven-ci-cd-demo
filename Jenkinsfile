@@ -14,7 +14,7 @@ pipeline {
             steps {
 
                 git branch: 'main',
-                    url: 'https://github.com/YOUR_USERNAME/maven-ci-cd-demo.git'
+                    url: 'https://github.com/akshaym000/maven-ci-cd-demo.git'
             }
         }
 
